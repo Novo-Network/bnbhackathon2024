@@ -1,6 +1,6 @@
 # BNB Chain Hackathon 2024
 
-Novo is a scaling infrastructure builder for Bitcoin. For the hackathon, the team has introduced BitERC, a new token protocol that allows native Bitcoin tokens to be compiled into smart contracts using Greenfield DA.
+Novo is a scaling infrastructure builder for Bitcoin. For the hackathon, the team has introduced **BitERC**, a new token protocol that allows native Bitcoin inscriptions to be compiled into EVM smart contracts using Greenfield DA.
 
 ## BitERC Smart Contract Asset Protocol for Bitcoin Network
 https://github.com/Novo-Network/BitERC
