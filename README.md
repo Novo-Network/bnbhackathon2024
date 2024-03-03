@@ -9,10 +9,12 @@ https://github.com/Novo-Network/BitERC
 https://github.com/Novo-Network/BitERC-Indexer
 
 ## BitERC Demo Architecture
-<img width="1542" alt="image" src="https://github.com/Novo-Network/bnbhackathon2024/assets/158323629/8f95895c-5bc6-42dc-b9d0-e884a5151a10">
+<img width="1535" alt="image" src="https://github.com/Novo-Network/bnbhackathon2024/assets/158323629/fc473205-b083-4a18-a2c4-5800b070b5ae">
+
 
 ## BitERC Demo Steps
-<img width="1540" alt="image" src="https://github.com/Novo-Network/bnbhackathon2024/assets/158323629/417e7267-3e8d-4b99-a2e6-271b442cf839">
+<img width="1533" alt="image" src="https://github.com/Novo-Network/bnbhackathon2024/assets/158323629/382cbb86-f55a-4887-8433-e10f2952dab8">
+
 
 ## BitERC Demo Video
-[![Demo Video](https://img.youtube.com/vi/AZg1faflHzk/0.jpg)](https://www.youtube.com/watch?v=AZg1faflHzk)
+[![Demo Video](https://img.youtube.com/vi/30uZrGYH30o/0.jpg)](https://www.youtube.com/watch?v=30uZrGYH30o)
